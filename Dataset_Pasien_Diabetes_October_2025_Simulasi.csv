@@ -1,0 +1,11 @@
+Nama_Pasien,Usia (tahun),Berat_Badan (kg),Tinggi_Badan (cm),Indeks_Massa_Tubuh (BMI),Kadar_HbA1c (<2-3 Bulan) (%),Kadar_Glukosa (mg/dL),Kadar_Insulin (uU/mL),Jenis_Kelamin,Tanggal_Input,Prediksi Diabetes
+Agung Prasetyo,55,64.0,173.0,21.5,5.7,110.0,7.0,Laki-laki,16/10/2025,PraDiabetes
+Dwika Handoko Wijoyo,50,72.0,174.0,23.8,5.4,116.0,8.0,Laki-laki,17/10/2025,PraDiabetes
+Suhendar Susanto,70,71.0,170.0,24.5,6.0,105.0,9.0,Laki-laki,16/10/2025,PraDiabetes
+Taufik Hidayat,55,73.3,168.0,26.0,5.4,138.0,4.4,Laki-laki,16/10/2025,Diabetes
+Teguh Irwandi Santosa,21,45.0,166.0,17.5,5.4,90.0,9.0,Laki-laki,16/10/2025,Tidak Diabetes
+Tika Diningsih,42,60.0,170.0,20.7,6.5,100.0,9.0,Perempuan,16/10/2025,Diabetes
+Umar Fauzan,50,70.0,167.0,25.0,6.4,110.0,10.0,Laki-laki,16/10/2025,PraDiabetes
+Wahyu Tri Nugroho,57,67.3,183.0,20.0,5.0,95.5,4.0,Laki-laki,16/10/2025,Tidak Diabetes
+Yogi Ramadhan,29,50.0,167.0,17.9,4.5,90.0,12.0,Laki-laki,16/10/2025,Tidak Diabetes
+Yuliana Zahra,36,68.0,160.0,26.5,4.8,96.7,4.7,Perempuan,16/10/2025,Tidak Diabetes
